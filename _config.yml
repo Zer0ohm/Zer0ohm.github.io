@@ -3,7 +3,7 @@ title:       無題.md
 email:       contact@0hm.org
 author:      zer0ohm
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/memolog"
+baseurl:     ""
 url:         "https://zer0ohm.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
